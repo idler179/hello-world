@@ -1,6 +1,6 @@
 hello-world
-===========
+==========
 
-tutorial
+tutorials
 
 Hello World!
